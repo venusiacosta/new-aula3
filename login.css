@@ -1,0 +1,44 @@
+body{
+    background-color: #212f21;
+}
+div{
+    margin: 90px 500px;
+    padding: 50px 100px;
+    background-color: #8fac8e;
+    border-radius: 8px;
+}
+.plant{
+    border: 10px;
+    border-top-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    
+}
+h1{text-align: center;}
+form{text-align: center;}
+header{background-color: rgb(175, 156, 114);
+color: #fff;
+margin: 20px 80px;
+height: 40px;
+}
+.entrar{border-radius: 20px;
+color: rgb(0, 0, 0);
+padding: 10px 20px;
+background-color: rgb(174, 180, 138);
+font-size: 18px;
+transition: background-color 0.5s ease, color 0.5s ease,transform 0.5s ease;
+}
+.entrar:hover{
+    background-color: black;
+    color: #fff;
+    transform: scale(1.2);
+}
+form {
+    padding: 10px 30px;
+}
+label{font-size: 18px;
+font-family: 'Times New Roman', Times, serif ;}
+.usuário{
+    border-radius: 8px;
+}
+.senha { border-radius: 8px;
+}
